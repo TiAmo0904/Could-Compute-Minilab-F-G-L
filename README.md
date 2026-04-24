@@ -74,7 +74,7 @@ Do not expose credentials in public repositories.
 
 # 5. Environment Configuration
 
-Modify ```.env``` in ```/MINILAB/data-service/```:
+Modify ```.env``` in ```/data-service/```:
 
 ```env
 OSS_ACCESS_KEY_ID=your_access_key_id

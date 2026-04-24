@@ -74,7 +74,7 @@ Do not expose credentials in public repositories.
 
 # 5. Environment Configuration
 
-Modify .env in project root:
+Modify ```.env``` in ```/MINILAB/data-service/```:
 
 ```env
 OSS_ACCESS_KEY_ID=your_access_key_id
@@ -164,5 +164,4 @@ If issues occur:
 * Check Docker status
 * Ensure service binds to 0.0.0.0:8080
 
-```
-```
+
